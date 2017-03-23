@@ -6,10 +6,10 @@
 
 ## Create New User: When creating a new user it is stored locally on your device
 
- | 
+
 
 ## Yes, Convert my tokens | Nope, don't have any
----------------------- | --------------------
+----------------------    | --------------------
 as a json > choose file > enter password |
 as a print pdf > enter private key >   |
 an external wallet | 
