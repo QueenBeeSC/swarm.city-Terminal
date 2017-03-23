@@ -5,7 +5,6 @@
 
 
 ## Create New User
-
 When creating a new user it is stored locally on your device
 
 
