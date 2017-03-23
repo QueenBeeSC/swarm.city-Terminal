@@ -8,7 +8,7 @@
 
  | 
 
-Yes, Convert my tokens | Nope, don't have any
+## Yes, Convert my tokens | Nope, don't have any
 ---------------------- | --------------------
 as a json > choose file > enter password |
 as a print pdf > enter private key >   |
