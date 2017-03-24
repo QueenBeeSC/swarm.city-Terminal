@@ -53,4 +53,7 @@ Set a currency - BTC/ETH/USD/EUR - to reference SWT tokens. In the balance of th
 > ## Make a backup
 
 
-Next to the avatar and username, there is a warning sign (!). It will be there as long as the user hasn’t made a backup. Clicking on it or on the avatar/username takes the user to the profile view with instructions to make a backup. The user can download the json file and can choose to store it on the device or on the cloud.
+Next to the avatar and username, there is a warning sign (!). It will be there as long as the user hasn’t made a backup. Clicking on it or on the avatar/username takes the user to the profile view with instructions to make a backup. The user can download the json file and can choose to store it on the device or on the [IPFS distributed web](https://ipfs.io).
+
+
+
