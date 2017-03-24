@@ -7,10 +7,8 @@ The Swarm City Terminal is the starting point of the user journey in Swarm City.
 <br>
 
 
-> ## [Enter the Terminal](https://swarm.city)
-
-
-[Imgur](http://i.imgur.com/c39bJZy.png)
+> ## [Enter the Terminal](https://swarm.city)  
+###[swarm.city](http://i.imgur.com/c39bJZy.png)
 
 
 <br>
