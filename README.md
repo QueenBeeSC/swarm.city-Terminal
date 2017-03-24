@@ -1,4 +1,4 @@
-# [swarm.city Terminal](https://github.com/swarmcity/sc-terminal/blob/master/README.md) Github
+## [swarm.city](https://github.com/swarmcity/sc-terminal/blob/master/README.md) Terminal Github
 
 
 The Swarm City Terminal is the starting point of the user journey in Swarm City. The Terminal is the main entry screen into the Swarm City ecosystem and will lead you to [Boardwalk](https://github.com/swarmcity/sc-boardwalk/blob/master/README.md), the browser for the hashtags (starting with #ridesharing). It provides the Swarm City users the ability to create and manage a basic profile, exchange ARC for SWT tokens, as well as sending and receiving SWT tokens from any other wallet.
@@ -7,7 +7,7 @@ The Swarm City Terminal is the starting point of the user journey in Swarm City.
 <br>
 
 
-> ## [Enter the Terminal](https://swarm.city)  
+> # [Enter the Terminal](https://swarm.city)  
 
 
 ### [swarm.city](http://i.imgur.com/c39bJZy.png)
@@ -21,8 +21,6 @@ The Swarm City Terminal is the starting point of the user journey in Swarm City.
 
 There are several ways to create a Swarm City wallet. 
 When creating a new wallet it is stored locally on your device. 
-
-**If you have ARC tokens that you want to convert to SWT tokens you will need a small amount of ether (.1 eth) on the wallet holding the ARC tokens before you can complete the swap.**
 
 
 <br>
@@ -79,6 +77,8 @@ The user can download the json file and can choose to store it on the device or 
 
 
 [Original whitepaper](https://drive.google.com/file/d/0B9RSMdR2vWssV2JJX0t6dmN6SUk/view) - [SWT token whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md) - [Swarm City multisig wallet](https://etherscan.io/address/0x8d9d0bd75319a3780d3cab012759efbae334291b)
+
+**If you have ARC tokens that you want to convert to SWT tokens you will need a small amount of ether (.1 eth) on the wallet holding the ARC tokens before you can complete the swap.**
 
 
 <br>
