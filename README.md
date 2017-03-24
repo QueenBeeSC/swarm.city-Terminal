@@ -94,7 +94,7 @@ The user can download the json file and can choose to store it on the device or 
 
 Users can send and recieve SWT tokens from any other user by sharing their shortcode or public address.
 
-**Never share your password or private key**
+**Never share your password, IPFS-hash or private key**
 
 
 <br>
