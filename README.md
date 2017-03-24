@@ -45,6 +45,9 @@ Click on the profile avatar or username to access the profile view. On the profi
 Personalize your account by changing the profile picture and username. The user can upload a profile picture or take the picture with the camera in his device. The image can be cropped before saving.  
 
 
+<br>
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kFD1t3MsdCs" frameborder="0" allowfullscreen></iframe>
 
 
@@ -66,7 +69,7 @@ Next to the avatar and username there is a warning sign (!). It will be there as
 
 The user can download the json file and can choose to store it on the device or on the [IPFS distributed web](https://ipfs.io).
 
-**Be sure to store your public address, private key, password, IPFS-hash is a safe place.** 
+**Be sure to store your public address, private key, password, IPFS-hash in a safe place.** 
 
 
 
