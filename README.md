@@ -4,10 +4,11 @@
 The Swarm City Terminal is the starting point of the user journey in Swarm City. The Swarm City Terminal will be the main entry screen into the Swarm City ecosystem and will be the browser for the hashtags ( starting with #ridesharing ). It provides the Swarm City citizens the possibility to create and manage a basic profile and exchange SWT tokens in a wallet.
 
 
+> ## [Enter the Terminal](https://swarm.city)
+
+
 > ## Create New User
 There are several ways to load your wallets. When creating a new user it is stored locally on your device. If you have ARC tokens that you want to convert to SWT tokens you will need a small amount of eth (.1 eth) on the wallet before you can complete the swap. 
-
-> ## [Enter the Terminal](https://swarm.city)
 
 
 Yes, Convert my tokens | Nope, don't have any
