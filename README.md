@@ -81,6 +81,23 @@ The user can download the json file and can choose to store it on the device or 
 [Original whitepaper](https://drive.google.com/file/d/0B9RSMdR2vWssV2JJX0t6dmN6SUk/view) - [SWT token whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md) - [Swarm City multisig wallet](https://etherscan.io/address/0x8d9d0bd75319a3780d3cab012759efbae334291b)
 
 
+<br>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ON5NLUQDFVM" frameborder="0" allowfullscreen></iframe>
+
+
+<br>
+
+
+> ## Send & Receive SWT tokens
+
+
+Send SWT tokens | Receive SWT tokens
+--------------- | ------------------
+click on SWT token balance > send SWT > enter amount > enter shortcode or public address of receiver | click on SWT token balance > shortcode > copy and paste to the sender before the code expires
+
+
 
 
 
