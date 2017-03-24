@@ -4,8 +4,11 @@
 The Swarm City Terminal is the starting point of the user journey in Swarm City. The Swarm City Terminal will be the main entry screen into the Swarm City ecosystem and will be the browser for the hashtags ( starting with #ridesharing ). It provides the Swarm City citizens the possibility to create and manage a basic profile and exchange SWT tokens in a wallet.
 
 
-<br>
+
+
 > ## [Enter the Terminal](https://swarm.city)
+
+
 <br>
 
 
@@ -22,6 +25,7 @@ as a print pdf > enter private key > create password > repeat password > create 
 an external wallet > enter private key > create password > repeat password > create a backup > download and/or ipfs| 
 
 <br>
+
 > ## Restore a backup file 
 
 
