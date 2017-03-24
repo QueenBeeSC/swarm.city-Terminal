@@ -25,13 +25,6 @@ When creating a new wallet it is stored locally on your device.
 *If you have ARC tokens that you want to convert to SWT tokens you will need a small amount of ether (.1 eth) on the wallet holding the ARC tokens before you can complete the swap.
 
 
-> ## Create a Profile
-
-Click on the profile picture or username to access the profile view. On the profile view, you see a profile avatar, username, and public wallet address. You also see a button to make backup, delete this user, and log out.
-
-Personalize your account by changing the profile picture and username. The user can upload a profile picture or take the picture with the camera in his device. The image can be cropped before saving. 
-
-
 <br>
 
 
@@ -43,6 +36,13 @@ From ANY wallet: an external wallet > enter private key > create password > repe
 
 
 <br>
+
+
+> ## Create a Profile
+
+Click on the profile picture or username to access the profile view. On the profile view, you see a profile avatar, username, and public wallet address. You also see a button to make backup, delete this user, and log out.
+
+Personalize your account by changing the profile picture and username. The user can upload a profile picture or take the picture with the camera in his device. The image can be cropped before saving.  
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kFD1t3MsdCs" frameborder="0" allowfullscreen></iframe>
