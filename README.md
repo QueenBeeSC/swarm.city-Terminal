@@ -6,8 +6,6 @@ The Swarm City Terminal is the starting point of the user journey in Swarm City.
 
 > ## [Enter the Terminal](https://swarm.city)
 <br>
-<br>
-<br>
 > ## Create New User
 
 
