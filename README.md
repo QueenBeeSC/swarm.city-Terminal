@@ -78,11 +78,7 @@ The user can download the json file and can choose to store it on the device or 
 > ## Exchange ARC for SWT tokens
 
 
-[Original whitepaper](https://drive.google.com/file/d/0B9RSMdR2vWssV2JJX0t6dmN6SUk/view)
-
-[SWT token whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md)
-
-[Swarm City multisig wallet](https://etherscan.io/address/0x8d9d0bd75319a3780d3cab012759efbae334291b)
+[Original whitepaper](https://drive.google.com/file/d/0B9RSMdR2vWssV2JJX0t6dmN6SUk/view) - [SWT token whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md) - [Swarm City multisig wallet](https://etherscan.io/address/0x8d9d0bd75319a3780d3cab012759efbae334291b)
 
 
 
