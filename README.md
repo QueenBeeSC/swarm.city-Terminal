@@ -10,6 +10,8 @@ The Swarm City Terminal is the starting point of the user journey in Swarm City.
 > ## [Enter the Terminal](https://swarm.city)
 
 
+[swarm.city](http://imgur.com/c39bJZy)
+
 <br>
 
 
@@ -57,5 +59,7 @@ Next to the avatar and username there is a warning sign (!). It will be there as
 
 The user can download the json file and can choose to store it on the device or on the [IPFS distributed web](https://ipfs.io).
 
+Be sure to store your public address, private key, password, IPFS-hash is a safe place. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QJOlo3NRx3I" frameborder="0" allowfullscreen></iframe>
 
