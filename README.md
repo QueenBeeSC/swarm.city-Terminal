@@ -35,6 +35,12 @@ From ANY wallet: an external wallet > enter private key > create password > repe
 <br>
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kFD1t3MsdCs" frameborder="0" allowfullscreen></iframe>
+
+
+<br>
+
+
 > ## Restore a backup file
 
 From a previously deleted SWT wallet that was created, backed up with IPFS, and deleted from the this device through the Terminal: enter IPFS-hash > restore
@@ -62,5 +68,5 @@ The user can download the json file and can choose to store it on the device or 
 
 Be sure to store your public address, private key, password, IPFS-hash is a safe place. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QJOlo3NRx3I" frameborder="0" allowfullscreen></iframe>
+
 
