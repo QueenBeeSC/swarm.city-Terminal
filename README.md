@@ -15,6 +15,6 @@ as a print pdf > enter private key > create password > repeat password > create 
 an external wallet > enter private key > create password > repeat password > create a backup > download and/or ipfs| 
 
 
-## Restore a backup file | 
+## Restore a backup file 
 ------------------------ | 
 Enter your ipfs-hash > restore 
