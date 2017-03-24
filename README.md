@@ -35,7 +35,10 @@ an external wallet > enter private key > create password > repeat password > cre
 Enter your ipfs-hash > restore 
 
 
-> ## Profile
+<br>
+
+
+> ## Create a Profile
 
 Click on the profile picture or the username, to access the profile view. On the profile view, you see your profile picture, username, and transaction history. You also see a button to make backup and a shortcode to sync another device.
 
@@ -44,7 +47,10 @@ Personalize your account by changing the profile picture and username. The user 
 Set a currency - BTC/ETH/USD/EUR - to reference SWT tokens. In the balance of the wallet, this reference currency will be shown next to the SWT token balance. On the profile screen, the user sees a transaction history.
 
 
-> ## Making a backup
+<br>
+
+
+> ## Make a backup
 
 
 Next to the avatar and username, there is a warning sign (!). It will be there as long as the user hasn’t made a backup. Clicking on it or on the avatar/username takes the user to the profile view with instructions to make a backup. The user can download the json file and can choose to store it on the device or on the cloud.
