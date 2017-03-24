@@ -16,5 +16,4 @@ an external wallet > enter private key > create password > repeat password > cre
 
 
 ## Restore a backup file 
------------------------- | 
 Enter your ipfs-hash > restore 
