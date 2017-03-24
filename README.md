@@ -31,8 +31,11 @@ an external wallet > enter private key > create password > repeat password > cre
 
 > ## Restore a backup file 
 
+Load previously created accounts that are backed up with an IPFS-hash that have been deleted from this device from within the Terminal.
 
-Enter your ipfs-hash > restore 
+
+Enter your ipfs-hash > restore | Create a profile
+
 
 
 <br>
@@ -40,11 +43,9 @@ Enter your ipfs-hash > restore
 
 > ## Create a Profile
 
-Click on the profile picture or the username to access the profile view. On the profile view, you see a profile avatar, username, and public wallet address. You also see a button to make backup, delete this user, and log out.
+Click on the profile picture or username to access the profile view. On the profile view, you see a profile avatar, username, and public wallet address. You also see a button to make backup, delete this user, and log out.
 
 Personalize your account by changing the profile picture and username. The user can upload a profile picture or take the picture with the camera in his device. The image can be cropped before saving. 
-
-Set a currency - BTC/ETH/USD/EUR - to reference SWT tokens. In the balance of the wallet, this reference currency will be shown next to the SWT token balance. On the profile screen, the user sees a transaction history.
 
 
 <br>
