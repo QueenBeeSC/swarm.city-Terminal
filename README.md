@@ -32,7 +32,7 @@ an external wallet > enter private key > create password > repeat password > cre
 
 > ## Restore a backup file
 
-To load a previously deleted account that was created, backed up with IPFS, and deleted from the this device through the Terminal.
+To load a previously deleted wallet that was created, backed up with IPFS, and deleted from the this device through the Terminal.
 
 
 enter IPFS-hash > restore
@@ -51,10 +51,12 @@ Personalize your account by changing the profile picture and username. The user 
 <br>
 
 
-> ## Make a backup
+> ## Create a backup
 
 
-Next to the avatar and username, there is a warning sign (!). It will be there as long as the user hasn’t made a backup. Clicking on it or on the avatar/username takes the user to the profile view with instructions to make a backup. The user can download the json file and can choose to store it on the device or on the [IPFS distributed web](https://ipfs.io).
+Next to the avatar and username there is a warning sign (!). It will be there as long as the user hasn’t made a backup. Clicking on it or on the avatar/username takes the user to the profile view with instructions to make a backup. 
+
+The user can download the json file and can choose to store it on the device or on the [IPFS distributed web](https://ipfs.io).
 
 
 
