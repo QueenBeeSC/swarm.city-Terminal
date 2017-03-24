@@ -34,7 +34,7 @@ an external wallet > enter private key > create password > repeat password > cre
 Load previously created accounts that are backed up with an IPFS-hash that have been deleted from this device from within the Terminal.
 
 
-Enter your ipfs-hash > restore | Create a profile
+Enter your ipfs-hash > restore | 
 
 
 
