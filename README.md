@@ -30,6 +30,17 @@ an external wallet > enter private key > create password > repeat password > cre
 <br>
 
 
+> ## Restore a backup file
+
+To load a previously deleted account that was created, backed up with IPFS, and deleted from the this device through the Terminal.
+
+
+enter IPFS-hash > restore
+
+
+<br>
+
+
 > ## Create a Profile
 
 Click on the profile picture or username to access the profile view. On the profile view, you see a profile avatar, username, and public wallet address. You also see a button to make backup, delete this user, and log out.
