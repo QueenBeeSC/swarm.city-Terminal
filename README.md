@@ -16,8 +16,10 @@ The Swarm City Terminal is the starting point of the user journey in Swarm City.
 > ## Create New User
 
 
-There are several ways to create a wallet. 
-When creating a new user it is stored locally on your device. If you have ARC tokens that you want to convert to SWR tokens you will need a smal amount of eth (.1 eth) on the wallet before you can complete the swap.
+There are several ways to create a Swarm City wallet. 
+When creating a new wallet it is stored locally on your device. 
+
+*If you have ARC tokens that you want to convert to SWR tokens you will need a smal amount of eth (.1 eth) on the wallet before you can complete the swap.
 
 
 Yes, convert my tokens | Nope, don't have any
