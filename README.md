@@ -25,6 +25,9 @@ When creating a new wallet it is stored locally on your device.
 *If you have ARC tokens that you want to convert to SWT tokens you will need a small amount of ether (.1 eth) on the wallet holding the ARC tokens before you can complete the swap.
 
 
+<br>
+
+
 Yes, convert my tokens | Nope, don't have any
 ---------------------- | -------------------- 
 From an ARC wallet: as a json > choose file > enter password of ARC wallet > create a backup > download and/or ipfs | create a password > repeat password > create a backup > download and/or ipfs
