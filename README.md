@@ -13,16 +13,16 @@ The Swarm City Terminal is the starting point of the user journey in Swarm City.
 <br>
 
 
-> ## Create New User / Restore a backup file
+> ## Create New User
 
 
 There are several ways to create a wallet. 
 When creating a new user it is stored locally on your device. If you have ARC tokens that you want to convert to SWR tokens you will need a smal amount of eth (.1 eth) on the wallet before you can complete the swap.
 
 
-Yes, convert my tokens | Nope, don't have any | Restore a backup file
----------------------- | -------------------- | ----------------------
-as a json > choose file > enter password of ARC wallet > create a backup > download and/or ipfs | create a password > repeat password > create a backup > download and/or ipfs | enter IPFS-hash > restore
+Yes, convert my tokens | Nope, don't have any
+---------------------- | -------------------- 
+as a json > choose file > enter password of ARC wallet > create a backup > download and/or ipfs | create a password > repeat password > create a backup > download and/or ipfs
 as a print pdf > enter private key > create password > repeat password > create a backup > downlaod and/or ipfs |
 an external wallet > enter private key > create password > repeat password > create a backup > download and/or ipfs| 
 
