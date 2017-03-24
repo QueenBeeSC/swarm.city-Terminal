@@ -30,9 +30,9 @@ When creating a new wallet it is stored locally on your device.
 
 Yes, convert my tokens | Nope, don't have any
 ---------------------- | -------------------- 
-from an ARC wallet: as a json > choose file > enter password of ARC wallet > create a backup > download and/or ipfs | create a password > repeat password > create a backup > download and/or ipfs
-from an ARC wallet: as a print pdf > enter private key > create password > repeat password > create a backup > downlaod and/or ipfs |
-from ANY wallet: an external wallet > enter private key > create password > repeat password > create a backup > download and/or ipfs| 
+**from an ARC wallet:** as a json > choose file > enter password of ARC wallet > create a backup > download and/or ipfs | create a password > repeat password > create a backup > download and/or ipfs
+**from an ARC wallet:** as a print pdf > enter private key > create password > repeat password > create a backup > downlaod and/or ipfs |
+**from ANY wallet:** an external wallet > enter private key > create password > repeat password > create a backup > download and/or ipfs| 
 
 
 <br>
@@ -40,7 +40,7 @@ from ANY wallet: an external wallet > enter private key > create password > repe
 
 > ## Create a Profile
 
-Click on the profile picture or username to access the profile view. On the profile view, you see a profile avatar, username, and public wallet address. You also see a button to make backup, delete this user, and log out.
+Click on the profile avatar or username to access the profile view. On the profile view, you see a profile avatar, username, and public wallet address. You also see a button to make backup, delete this user, and log out.
 
 Personalize your account by changing the profile picture and username. The user can upload a profile picture or take the picture with the camera in his device. The image can be cropped before saving.  
 
@@ -66,7 +66,7 @@ Next to the avatar and username there is a warning sign (!). It will be there as
 
 The user can download the json file and can choose to store it on the device or on the [IPFS distributed web](https://ipfs.io).
 
-Be sure to store your public address, private key, password, IPFS-hash is a safe place. 
+**Be sure to store your public address, private key, password, IPFS-hash is a safe place.** 
 
 
 
