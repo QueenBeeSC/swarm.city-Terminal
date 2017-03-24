@@ -10,7 +10,7 @@ When creating a new user it is stored locally on your device.
 
 Yes, Convert my tokens | Nope, don't have any
 ---------------------- | --------------------
-as a json > choose file > enter password | create a password > repeat password > create a backup > download and/or ipfs
+as a json > choose file > enter password of ARC wallet > create a backup > download and/or ipfs | create a password > repeat password > create a backup > download and/or ipfs
 as a print pdf > enter private key > create password > repeat password > create a backup > downlaod and/or ipfs |
 an external wallet > enter private key > create password > repeat password > create a backup > download and/or ipfs| 
 
