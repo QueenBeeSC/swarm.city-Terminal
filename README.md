@@ -22,7 +22,7 @@ The Swarm City Terminal is the starting point of the user journey in Swarm City.
 There are several ways to create a Swarm City wallet. 
 When creating a new wallet it is stored locally on your device. 
 
-*If you have ARC tokens that you want to convert to SWT tokens you will need a small amount of ether (.1 eth) on the wallet holding the ARC tokens before you can complete the swap.
+**If you have ARC tokens that you want to convert to SWT tokens you will need a small amount of ether (.1 eth) on the wallet holding the ARC tokens before you can complete the swap.**
 
 
 <br>
@@ -94,7 +94,7 @@ The user can download the json file and can choose to store it on the device or 
 
 Users can send and recieve SWT tokens from any other user by sharing their shortcode or public address.
 
-**Never share your password or private key
+**Never share your password or private key**
 
 
 <br>
