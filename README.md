@@ -69,7 +69,24 @@ Next to the avatar and username there is a warning sign (!). It will be there as
 
 The user can download the json file and can choose to store it on the device or on the [IPFS distributed web](https://ipfs.io).
 
-**Be sure to store your public address, private key, password, IPFS-hash in a safe place.** 
+**Be sure to store your public address, private key, password, IPFS-hash in a safe place.**
+
+
+<br>
+
+
+> ## Exchange ARC for SWT tokens
+
+
+[Original whitepaper](https://drive.google.com/file/d/0B9RSMdR2vWssV2JJX0t6dmN6SUk/view)
+
+[SWT token whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md)
+
+[Swarm City multisig wallet](https://etherscan.io/address/0x8d9d0bd75319a3780d3cab012759efbae334291b)
+
+
+
+
 
 
 
