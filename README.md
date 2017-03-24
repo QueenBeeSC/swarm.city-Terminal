@@ -1,7 +1,7 @@
-## [swarm.city](https://github.com/swarmcity/sc-terminal/blob/master/README.md) Github - First release, The Terminal
+## swarm.city Github - First release, The Terminal
 
 
-The Swarm City Terminal is the starting point of the user journey in Swarm City. The Terminal is the main entry screen into the Swarm City ecosystem and will lead you to [Boardwalk](https://github.com/swarmcity/sc-boardwalk/blob/master/README.md), the browser for the hashtags (starting with #ridesharing). It provides the Swarm City users the ability to create and manage a basic profile, exchange ARC for SWT tokens, as well as sending and receiving SWT tokens from any other wallet.
+The [Swarm City Terminal](https://github.com/swarmcity/sc-terminal/blob/master/README.md) is the starting point of the user journey in Swarm City. The Terminal is the main entry screen into the Swarm City ecosystem and will lead you to [Boardwalk](https://github.com/swarmcity/sc-boardwalk/blob/master/README.md), the browser for the hashtags (starting with #ridesharing). It provides the Swarm City users the ability to create and manage a basic profile, exchange ARC for SWT tokens, as well as sending and receiving SWT tokens from any other wallet.
 
 
 <br>
