@@ -9,6 +9,7 @@ The Swarm City Terminal is the starting point of the user journey in Swarm City.
 
 > ## Create New User
 
+
 There are several ways to load your wallets. When creating a new user it is stored locally on your device. If you have ARC tokens that you want to convert to SWT tokens you will need a small amount of eth (.1 eth) on the wallet before you can complete the swap. 
 
 
@@ -20,4 +21,6 @@ an external wallet > enter private key > create password > repeat password > cre
 
 
 > ## Restore a backup file 
+
+
 Enter your ipfs-hash > restore 
