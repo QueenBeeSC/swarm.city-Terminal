@@ -25,8 +25,8 @@ When creating a new wallet it is stored locally on your device.
 Yes, convert my tokens | Nope, don't have any
 ---------------------- | -------------------- 
 From an ARC wallet: as a json > choose file > enter password of ARC wallet > create a backup > download and/or ipfs | create a password > repeat password > create a backup > download and/or ipfs
-From an ARC waalet: as a print pdf > enter private key > create password > repeat password > create a backup > downlaod and/or ipfs |
-From an wallet: an external wallet > enter private key > create password > repeat password > create a backup > download and/or ipfs| 
+From an ARC wallet: as a print pdf > enter private key > create password > repeat password > create a backup > downlaod and/or ipfs |
+From ANY wallet: an external wallet > enter private key > create password > repeat password > create a backup > download and/or ipfs| 
 
 
 <br>
@@ -34,7 +34,7 @@ From an wallet: an external wallet > enter private key > create password > repea
 
 > ## Restore a backup file
 
-To load a previously deleted wallet that was created, backed up with IPFS, and deleted from the this device through the Terminal.
+From a previously deleted SWT wallet that was created, backed up with IPFS, and deleted from the this device through the Terminal.
 
 
 enter IPFS-hash > restore
