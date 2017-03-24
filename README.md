@@ -34,10 +34,7 @@ From ANY wallet: an external wallet > enter private key > create password > repe
 
 > ## Restore a backup file
 
-From a previously deleted SWT wallet that was created, backed up with IPFS, and deleted from the this device through the Terminal.
-
-
-enter IPFS-hash > restore
+From a previously deleted SWT wallet that was created, backed up with IPFS, and deleted from the this device through the Terminal: enter IPFS-hash > restore
 
 
 <br>
