@@ -16,7 +16,7 @@ The Swarm City Terminal is the starting point of the user journey in Swarm City.
 > ## Create New User
 
 
-There are several ways to load your wallets. When creating a new user it is stored locally on your device. If you have ARC tokens that you want to convert to SWT tokens you will need a small amount of eth (.1 eth) on the wallet before you can complete the swap. 
+There are several ways to creae a wallet. When creating a new user it is stored locally on your device. If you have ARC tokens that you want to convert to SWT tokens you will need a small amount of eth (.1 eth) on the wallet before you can complete the swap. 
 
 
 Yes, Convert my tokens | Nope, don't have any
@@ -40,7 +40,7 @@ Enter your ipfs-hash > restore
 
 > ## Create a Profile
 
-Click on the profile picture or the username, to access the profile view. On the profile view, you see your profile picture, username, and transaction history. You also see a button to make backup and a shortcode to sync another device.
+Click on the profile picture or the username to access the profile view. On the profile view, you see a profile avatar, username, and public wallet address. You also see a button to make backup, delete this user, and log out.
 
 Personalize your account by changing the profile picture and username. The user can upload a profile picture or take the picture with the camera in his device. The image can be cropped before saving. 
 
