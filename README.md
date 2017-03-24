@@ -24,9 +24,9 @@ When creating a new wallet it is stored locally on your device.
 
 Yes, convert my tokens | Nope, don't have any
 ---------------------- | -------------------- 
-as a json > choose file > enter password of ARC wallet > create a backup > download and/or ipfs | create a password > repeat password > create a backup > download and/or ipfs
-as a print pdf > enter private key > create password > repeat password > create a backup > downlaod and/or ipfs |
-an external wallet > enter private key > create password > repeat password > create a backup > download and/or ipfs| 
+From an ARC wallet: as a json > choose file > enter password of ARC wallet > create a backup > download and/or ipfs | create a password > repeat password > create a backup > download and/or ipfs
+From an ARC waalet: as a print pdf > enter private key > create password > repeat password > create a backup > downlaod and/or ipfs |
+From an wallet: an external wallet > enter private key > create password > repeat password > create a backup > download and/or ipfs| 
 
 
 <br>
