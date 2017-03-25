@@ -11,7 +11,8 @@ The [Swarm City Terminal](https://github.com/swarmcity/sc-terminal/blob/master/R
 
 
 ### ![alt text][logo]
-[http://i.imgur.com/c39bJZy.png]
+
+[logo] :http://i.imgur.com/c39bJZy.png
 
 
 
