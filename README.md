@@ -98,7 +98,6 @@ The user can download the json file and can choose to store it on the device or 
 Select delete this user to switch between wallets. At this time, the Terminal can load contents from only one wallet at a time. When deleting a user the contents of the wallet will remain intact. Any IPFS-hash or backup download created will retain it's merit and can be used to reload the account after deletion.
 
 **Be sure to store your public address, private key, password, and IPFS-hash in a safe place.**
-Once you have created a profile you can log in and out at will. Upon re-entry to the Swarm City Terminal, your wallet can be loaded by entering your password only, unless you delete the user. In which case, you can follow the steps to cretae a new user and load a new wallet. 
 
 
 <br>
