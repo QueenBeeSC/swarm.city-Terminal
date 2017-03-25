@@ -53,14 +53,6 @@ Once you have created a profile you can log in and out at will. Upon re-entry to
 <br>
 
 
-> ## Restore a backup file
-
-**Retrieve a previously deleted SWT wallet that was created, backed up with IPFS, and deleted from the this device through the Terminal:** enter IPFS-hash > restore
-
-
-<br>
-
-
 > ## Create a backup
 
 
