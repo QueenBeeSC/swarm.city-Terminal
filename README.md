@@ -19,8 +19,7 @@ The [Swarm City Terminal](https://github.com/swarmcity/sc-terminal/blob/master/R
 > ## Create New User
 
 
-There are several ways to create a Swarm City wallet. 
-When creating a new wallet it is stored locally on your device. 
+There are several ways to create a Swarm City wallet. When creating a new wallet it is stored locally on your device, no central database. The password you choose will be used to encrypt your wallet on your device.
 
 
 <br>
@@ -56,7 +55,7 @@ Once you have created a profile you can log in and out at will. Upon re-entry to
 
 > ## Restore a backup file
 
-Retrieve a previously deleted SWT wallet that was created, backed up with IPFS, and deleted from the this device through the Terminal: enter IPFS-hash > restore
+**Retrieve a previously deleted SWT wallet that was created, backed up with IPFS, and deleted from the this device through the Terminal:** enter IPFS-hash > restore
 
 
 <br>
@@ -64,6 +63,8 @@ Retrieve a previously deleted SWT wallet that was created, backed up with IPFS, 
 
 > ## Create a backup
 
+
+The Swarm City app is fully decentralized so there is no central party storing your account information. When a user is removed from a device it can only be recovered by a backup that you have created for yourself. The backup with your password will give you permanent and complete control of your tokens.
 
 Next to the avatar and username there is a warning sign (!). It will be there as long as the user hasn’t made a backup. Clicking on it or on the avatar/username takes the user to the profile view with instructions to make a backup. 
 
@@ -109,13 +110,16 @@ click on SWT token balance > send SWT > enter amount > enter shortcode or public
 
 <br>
 
-> ## Log out
+> ## Log out/Delete user
 
 Once you have created a profile you can log in and out at will. Upon re-entry to the Swarm City Terminal, your wallet can be loaded by entering your password only, unless you delete the user. In which case, you can follow the steps to cretae a new user and load a new wallet. 
 
 
 <br>
 
+
+Log out | Delete this user
+------- | ----------------
 
 > ## Delete this user
 
