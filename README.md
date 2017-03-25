@@ -38,7 +38,7 @@ Create new user > Yes, convert my tokens | Create new user > Nope, don't have an
 
 Click on the profile avatar or username to access the profile view. On the profile view, you see a profile avatar, username, and public wallet address. You also see a button to make backup, delete this user, and log out.
 
-Personalize your account by changing the profile picture and username. The user can upload a profile picture or take the picture with the camera in his device. The image can be cropped before saving.
+Personalize your account by changing the profile picture and username. The user can upload a profile picture or take the picture with the camera in his device. The image can be cropped before saving.  
 
 Once you have created a profile you can log in and out at will. Upon re-entry to the Swarm City Terminal, your wallet can be loaded by entering your password only, unless you delete the user. In which case, you can follow the steps to cretae a new user and load a new wallet. 
 
