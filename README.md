@@ -25,9 +25,9 @@ There are several ways to create a Swarm City wallet. When creating a new wallet
 <br>
 
 
-Yes, convert my tokens | Nope, don't have any
----------------------- | -------------------- 
-**from an ARC wallet:** as a json > choose file > enter password of ARC wallet > create a backup > download and/or ipfs | create a password > repeat password > create a backup > download and/or ipfs
+Yes, convert my tokens | Nope, don't have any | Restore backup
+---------------------- | -------------------- | --------------
+**from an ARC wallet:** as a json > choose file > enter password of ARC wallet > create a backup > download and/or ipfs | create a password > repeat password > create a backup > download and/or ipfs | enter IPFS-hash > restore
 **from an ARC wallet:** as a print pdf > enter private key > create password > repeat password > create a backup > downlaod and/or ipfs |
 **from ANY wallet:** an external wallet > enter private key > create password > repeat password > create a backup > download and/or ipfs| 
 
