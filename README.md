@@ -16,10 +16,12 @@ The [Swarm City Terminal](https://github.com/swarmcity/sc-terminal/blob/master/R
 <br>
 
 
-> ## Create New User
+> ## Create New User / Restore backup file
 
 
-There are several ways to create a Swarm City wallet. When creating a new wallet it is stored locally on your device, no central database. The password you choose will be used to encrypt your wallet on your device.
+There are several ways to create a new Swarm City wallet. When creating a new wallet it is stored locally on your device, no central database. The password you choose will be used to encrypt your wallet on your device.
+
+Restore a backup file can only be used to retrieve a previously deleted SWT wallet that was created, backed up with IPFS, and deleted from the this device through the Terminal. 
 
 
 <br>
