@@ -16,7 +16,7 @@ The [Swarm City Terminal](https://github.com/swarmcity/sc-terminal/blob/master/R
 <br>
 
 
-> ## Create New User / Restore backup file
+> ## Create new user / Restore a backup file
 
 
 There are several ways to create a new Swarm City wallet. When creating a new wallet it is stored locally on your device, no central database. The password you choose will be used to encrypt your wallet on your device.
@@ -50,21 +50,6 @@ Once you have created a profile you can log in and out at will. Upon re-entry to
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kFD1t3MsdCs" frameborder="0" allowfullscreen></iframe>
-
-
-<br>
-
-
-> ## Create a backup
-
-
-The Swarm City app is fully decentralized so there is no central party storing your account information. When a user is removed from a device it can only be recovered by a backup that you have created for yourself. The backup with your password will give you permanent and complete control of your tokens.
-
-Next to the avatar and username there is a warning sign (!). It will be there as long as the user hasn’t made a backup. Clicking on it or on the avatar/username takes the user to the profile view with instructions to make a backup. 
-
-The user can download the json file and can choose to store it on the device or on the [IPFS distributed web](https://ipfs.io).
-
-**Be sure to store your public address, private key, password, IPFS-hash in a safe place.**
 
 
 <br>
@@ -104,16 +89,25 @@ click on SWT token balance > send SWT > enter amount > enter shortcode or public
 
 <br>
 
-> ## Log out/Delete user
+> ## Create a backup / Delete user / Logout
 
+
+The Swarm City app is fully decentralized so there is no central party storing your account information. When a user is removed from a device it can only be recovered by a backup that you have created for yourself. The backup with your password will give you permanent and complete control of your tokens.
+
+Next to the avatar and username there is a warning sign (!). It will be there as long as the user hasn’t made a backup. Clicking on it or on the avatar/username takes the user to the profile view with instructions to make a backup. 
+
+The user can download the json file and can choose to store it on the device or on the [IPFS distributed web](https://ipfs.io).
+
+**Be sure to store your public address, private key, password, IPFS-hash in a safe place.**
 Once you have created a profile you can log in and out at will. Upon re-entry to the Swarm City Terminal, your wallet can be loaded by entering your password only, unless you delete the user. In which case, you can follow the steps to cretae a new user and load a new wallet. 
 
 
 <br>
 
 
-Log out | Delete this user
-------- | ----------------
+Create a backup | Delete this user | Logout
+--------------- | ---------------- | ------
+Click on the profile avatar or nickname > create a backup > download and/or ipfs
 
 > ## Delete this user
 
