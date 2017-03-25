@@ -109,7 +109,7 @@ Once you have created a profile you can log in and out at will. Upon re-entry to
 
 Create a backup | Delete this user | Logout
 --------------- | ---------------- | ------
-Click on the profile avatar or nickname > create a backup > download and/or ipfs | Click on the profile avatar or nickname delete this user > continue | Click on the profile avatar or nickname > logout
+click on the profile avatar or nickname > create a backup > download and/or ipfs | click on the profile avatar or nickname delete this user > continue | click on the profile avatar or nickname > logout
 
 
 
