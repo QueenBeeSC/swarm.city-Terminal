@@ -72,7 +72,7 @@ Once you have created a profile you can log in and out at will. Upon re-entry to
 <br>
 
 
-> ## Send & Receive SWT tokens
+> ## Send / Receive SWT tokens
 
 Users can send and recieve SWT tokens from any other user by sharing their shortcode or public address.
 
@@ -107,7 +107,7 @@ Once you have created a profile you can log in and out at will. Upon re-entry to
 
 Create a backup | Delete this user | Logout
 --------------- | ---------------- | ------
-Click on the profile avatar or nickname > create a backup > download and/or ipfs
+Click on the profile avatar or nickname > create a backup > download and/or ipfs | Click on the profile avatar or nickname delete this user > continue | Click on the profile avatar or nickname > logout
 
 > ## Delete this user
 
