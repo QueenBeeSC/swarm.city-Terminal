@@ -89,7 +89,7 @@ click on SWT token balance > send SWT > enter amount > enter shortcode or public
 
 <br>
 
-> ## Create a backup / Delete user / Logout
+> ## Create a backup / Delete this user / Logout
 
 
 The Swarm City app is fully decentralized so there is no central party storing your account information. When a user is removed from a device it can only be recovered by a backup that you have created for yourself. The backup with your password will give you permanent and complete control of your tokens.
@@ -98,7 +98,9 @@ Next to the avatar and username there is a warning sign (!). It will be there as
 
 The user can download the json file and can choose to store it on the device or on the [IPFS distributed web](https://ipfs.io).
 
-**Be sure to store your public address, private key, password, IPFS-hash in a safe place.**
+Select delete this user to switch between wallets. At this time, the Terminal can load contents from only one wallet at a time. When deleting a user the contents of the wallet will remain intact. Any IPFS-hash or backup download created will retain it's merit and can be used to reload the account after deletion.
+
+**Be sure to store your public address, private key, password, and IPFS-hash in a safe place.**
 Once you have created a profile you can log in and out at will. Upon re-entry to the Swarm City Terminal, your wallet can be loaded by entering your password only, unless you delete the user. In which case, you can follow the steps to cretae a new user and load a new wallet. 
 
 
@@ -109,9 +111,9 @@ Create a backup | Delete this user | Logout
 --------------- | ---------------- | ------
 Click on the profile avatar or nickname > create a backup > download and/or ipfs | Click on the profile avatar or nickname delete this user > continue | Click on the profile avatar or nickname > logout
 
-> ## Delete this user
 
-Select delete this user to switch between wallets. At this time, the Terminal can load contents from only one wallet at a time. When deleting a user the contents of the wallet will remain intact. Any IPFS-hash or backup download created will retain it's merit and can be used to reload the account after deletion.
+
+
 
 
 
