@@ -10,7 +10,7 @@ The [Swarm City Terminal](https://github.com/swarmcity/sc-terminal/blob/master/R
 > # [Enter the Terminal](https://swarm.city)  
 
 
-### [alt text][http://i.imgur.com/c39bJZy.png]
+### ![alt text][http://i.imgur.com/c39bJZy.png]
 
 
 <br>
