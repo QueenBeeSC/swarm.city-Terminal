@@ -27,11 +27,11 @@ Restore a backup file can only be used to retrieve a previously deleted SWT wall
 <br>
 
 
-Create new user > Yes, convert my tokens |Create new user > Nope, don't have any | Restore a backup file
----------------------------------------- | ------------------------------------- | ---------------------
-**from an ARC wallet:** as a json > choose file > enter password of ARC wallet > create a backup > download and/or ipfs | create a password > repeat password > create a backup > download and/or ipfs | restore a backup file > enter IPFS-hash > restore
-**from an ARC wallet:** as a print pdf > enter private key > create password > repeat password > create a backup > downlaod and/or ipfs |
-**from ANY wallet:** an external wallet > enter private key > create password > repeat password > create a backup > download and/or ipfs| 
+Create new user > Yes, convert my tokens | Create new user > Nope, don't have any | Restore a backup file
+---------------------------------------- | -------------------------------------- | ---------------------
+**from an ARC wallet:** as a json > choose file > enter password of ARC wallet > creating new wallet | create a password > repeat password > create a backup > download and/or ipfs | restore a backup file > enter IPFS-hash > restore
+**from an ARC wallet:** as a print pdf > enter private key > create password > repeat password > creating new wallet |
+**from ANY wallet:** an external wallet > enter private key > create password > repeat password > creating new wallet | 
 
 
 <br>
