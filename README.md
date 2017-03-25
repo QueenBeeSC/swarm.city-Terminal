@@ -10,15 +10,6 @@ The [Swarm City Terminal](https://github.com/swarmcity/sc-terminal/blob/master/R
 > # [Enter the Terminal](https://swarm.city)  
 
 
-### ![alt text][logo]
-
-[logo] :http://i.imgur.com/c39bJZy.png
-
-
-
-<br>
-
-
 > ## Create new user / Restore a backup file
 
 
