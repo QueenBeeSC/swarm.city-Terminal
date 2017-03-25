@@ -76,7 +76,7 @@ The user can download the json file and can choose to store it on the device or 
 > ## Exchange ARC for SWT tokens
 
 
-[Original whitepaper](https://drive.google.com/file/d/0B9RSMdR2vWssV2JJX0t6dmN6SUk/view) - [SWT token whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md) - [Swarm City multisig wallet](https://etherscan.io/address/0x8d9d0bd75319a3780d3cab012759efbae334291b)
+[Original whitepaper](https://drive.google.com/file/d/0B9RSMdR2vWssV2JJX0t6dmN6SUk/view) - [SWT token whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md) - [Swarm City Token Contract (SWT)](https://etherscan.io/token/0xb9e7f8568e08d5659f5d29c4997173d84cdf2607)
 
 **If you have ARC tokens that you want to convert to SWT tokens you will need a small amount of ether (.1 eth) on the wallet holding the ARC tokens before you can complete the swap.**
 
