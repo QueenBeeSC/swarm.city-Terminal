@@ -10,7 +10,7 @@ The [Swarm City Terminal](https://github.com/swarmcity/sc-terminal/blob/master/R
 > # [Enter the Terminal](https://swarm.city)  
 
 
-### [swarm.city](http://i.imgur.com/c39bJZy.png)
+### [alt text][http://i.imgur.com/c39bJZy.png]
 
 
 <br>
@@ -74,7 +74,7 @@ Once you have created a profile you can log in and out at will. Upon re-entry to
 
 > ## Send / Receive SWT tokens
 
-Users can send and recieve SWT tokens from any other user by sharing their shortcode or public address.
+Users can send to and recieve SWT tokens from any other user by sharing their shortcode or public address.
 
 **Never share your password, IPFS-hash or private key**
 
