@@ -40,7 +40,9 @@ Yes, convert my tokens | Nope, don't have any
 
 Click on the profile avatar or username to access the profile view. On the profile view, you see a profile avatar, username, and public wallet address. You also see a button to make backup, delete this user, and log out.
 
-Personalize your account by changing the profile picture and username. The user can upload a profile picture or take the picture with the camera in his device. The image can be cropped before saving.  
+Personalize your account by changing the profile picture and username. The user can upload a profile picture or take the picture with the camera in his device. The image can be cropped before saving.
+
+Once you have created a profile you can log in and out at will. Upon re-entry to the Swarm City Terminal, your wallet can be loaded by entering your password only, unless you delete the user. In which case, you can follow the steps to cretae a new user and load a new wallet. 
 
 
 <br>
@@ -105,8 +107,19 @@ Send SWT tokens | Receive SWT tokens
 click on SWT token balance > send SWT > enter amount > enter shortcode or public address of receiver | click on SWT token balance > shortcode > copy and paste to the sender before the code expires
 
 
+<br>
+
+> ## Log out
+
+Once you have created a profile you can log in and out at will. Upon re-entry to the Swarm City Terminal, your wallet can be loaded by entering your password only, unless you delete the user. In which case, you can follow the steps to cretae a new user and load a new wallet. 
 
 
+<br>
+
+
+> ## Delete this user
+
+Select delete this user to switch between wallets. At this time, the Terminal can load contents from only one wallet at a time. When deleting a user the contents of the wallet will remain intact. Any IPFS-hash or backup download created will retain it's merit and can be used to reload the account after deletion.
 
 
 
