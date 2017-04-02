@@ -13,7 +13,7 @@ The [Swarm City Terminal](https://github.com/swarmcity/sc-terminal/blob/master/R
 <br>
 
 
-> # Create new user / Restore a backup file
+> ## Create new user / Restore a backup file
 
 
 There are several ways to create a new Swarm City wallet. When creating a new wallet it is stored locally on your device, no central database. The password you choose will be used to encrypt your wallet on your device.
@@ -34,7 +34,7 @@ Create new user > Yes, convert my tokens | Create new user > Nope, don't have an
 <br>
 
 
-> # Create a Profile
+> ## Create a Profile
 
 Click on the profile avatar or username to access the profile view. On the profile view, you see a profile avatar, username, and public wallet address. You also see a button to make backup, delete this user, and log out.
 
@@ -52,7 +52,7 @@ Once you have created a profile you can log in and out at will. Upon re-entry to
 <br>
 
 
-> # Exchange ARC for SWT tokens
+> ## Exchange ARC for SWT tokens
 
 
 [Original whitepaper](https://drive.google.com/file/d/0B9RSMdR2vWssV2JJX0t6dmN6SUk/view) - [SWT token whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md) - [Swarm City Token Contract (SWT)](https://etherscan.io/token/0xb9e7f8568e08d5659f5d29c4997173d84cdf2607)
@@ -69,7 +69,7 @@ Once you have created a profile you can log in and out at will. Upon re-entry to
 <br>
 
 
-> # Send / Receive SWT tokens
+> ## Send / Receive SWT tokens
 
 Users can send to and recieve SWT tokens from any other user by sharing their shortcode or public address.
 
@@ -86,7 +86,7 @@ click on SWT token balance > send SWT > enter amount > enter shortcode or public
 
 <br>
 
-> # Create a backup / Delete this user / Logout
+> ## Create a backup / Delete this user / Logout
 
 
 The Swarm City app is fully decentralized so there is no central party storing your account information. When a user is removed from a device it can only be recovered by a backup that you have created for yourself. The backup with your password will give you permanent and complete control of your tokens.
@@ -111,7 +111,7 @@ click on the profile avatar or nickname > create a backup > download and/or ipfs
 <br>
 
 
-# Meet the community, visit the swarm.city [welcome page](https://queenbeesc.github.io/swarm.city/)
+### Meet the community, visit the swarm.city [welcome page](https://queenbeesc.github.io/swarm.city/)
 
 
 
