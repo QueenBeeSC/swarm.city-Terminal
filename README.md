@@ -1,7 +1,7 @@
 # The Terminal - Swarm City's First Release
 
 
-The [Swarm City Terminal](https://github.com/swarmcity/sc-terminal/blob/master/README.md) is the starting point of the user journey in Swarm City. The [Terminal](https://github.com/swarmcity/dev.swarm.city/blob/master/README.md) is the main entry screen into the Swarm City ecosystem and will lead you to [Boardwalk](https://github.com/swarmcity/sc-terminal/blob/master/README.md), the browser for the hashtags, starting with #ridesharing. It provides the Swarm City users the ability to create and manage a basic profile, exchange ARC for SWT, as well as sending and receiving SWT tokens from any other wallet.
+The [Swarm City Terminal](https://github.com/swarmcity/sc-terminal/blob/master/README.md) is the starting point of the user journey in Swarm City. The [Terminal](https://github.com/swarmcity/dev.swarm.city/blob/master/README.md) is the main entry screen into the Swarm City ecosystem and will lead you to [Boardwalk](https://github.com/swarmcity/sc-terminal/blob/master/README.md), the browser for the hashtags, starting with #ridesharing. It provides the Swarm City users the ability to create and manage a basic profile, exchange Arcade City tokens (ARC) for Swarm City Tokens (SWT), as well as sending and receiving SWT from any other wallet.
 
 
 <br>
@@ -69,7 +69,7 @@ Once you have created a profile you can log in and out at will. Upon re-entry to
 <br>
 
 
-> ## Send / Receive SWT tokens
+> ## Send SWT / Receive SWT
 
 Users can send to and recieve SWT from any other user by sharing their shortcode or public address.
 
