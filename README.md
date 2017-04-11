@@ -1,7 +1,7 @@
 # The Terminal - Swarm City's First Release
 
 
-The [Swarm City Terminal](https://github.com/swarmcity/sc-terminal/blob/master/README.md) is the starting point of the user journey in Swarm City. The [Terminal](https://github.com/swarmcity/dev.swarm.city/blob/master/README.md) is the main entry screen into the Swarm City ecosystem and will lead you to [Boardwalk](https://github.com/swarmcity/sc-terminal/blob/master/README.md), the browser for the hashtags, starting with #ridesharing. It provides the Swarm City users the ability to create and manage a basic profile, exchange ARC for SWT tokens, as well as sending and receiving SWT tokens from any other wallet.
+The [Swarm City Terminal](https://github.com/swarmcity/sc-terminal/blob/master/README.md) is the starting point of the user journey in Swarm City. The [Terminal](https://github.com/swarmcity/dev.swarm.city/blob/master/README.md) is the main entry screen into the Swarm City ecosystem and will lead you to [Boardwalk](https://github.com/swarmcity/sc-terminal/blob/master/README.md), the browser for the hashtags, starting with #ridesharing. It provides the Swarm City users the ability to create and manage a basic profile, exchange ARC for SWT, as well as sending and receiving SWT tokens from any other wallet.
 
 
 <br>
@@ -52,12 +52,12 @@ Once you have created a profile you can log in and out at will. Upon re-entry to
 <br>
 
 
-> ## Exchange ARC for SWT tokens
+> ## Exchange ARC for SWT
 
 
 [Original whitepaper](https://drive.google.com/file/d/0B9RSMdR2vWssV2JJX0t6dmN6SUk/view) - [SWT token whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md) - [Swarm City Token Contract (SWT)](https://etherscan.io/token/0xb9e7f8568e08d5659f5d29c4997173d84cdf2607)
 
-**If you have ARC tokens that you want to convert to SWT tokens you will need a small amount of ether to cover gas fees, approximately 0.1 eth in the wallet holding the ARC tokens, before you can complete the swap. This will be more than enough to cover several transactions**
+**If you have ARC tokens that you want to convert to SWT you will need a small amount of ether to cover gas fees, approximately 0.1 eth in the wallet holding the ARC tokens, before you can complete the swap. This will be more than enough to cover several transactions**
 
 
 <br>
@@ -71,7 +71,7 @@ Once you have created a profile you can log in and out at will. Upon re-entry to
 
 > ## Send / Receive SWT tokens
 
-Users can send to and recieve SWT tokens from any other user by sharing their shortcode or public address.
+Users can send to and recieve SWT from any other user by sharing their shortcode or public address.
 
 **Never share your password, IPFS-hash or private key**
 
@@ -79,9 +79,9 @@ Users can send to and recieve SWT tokens from any other user by sharing their sh
 <br>
 
 
-Send SWT tokens | Receive SWT tokens
+Send SWT | Receive SWT
 --------------- | ------------------
-click on SWT token balance > send SWT > enter amount > enter shortcode or public address of receiver | click on SWT token balance > shortcode > copy and paste to the sender before the code expires
+click on SWT balance > send SWT > enter amount > enter shortcode or public address of receiver | click on SWT balance > shortcode > copy and paste to the sender before the code expires
 
 
 <br>
