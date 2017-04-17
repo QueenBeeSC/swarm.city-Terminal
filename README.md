@@ -1,7 +1,7 @@
 # Terminal - Swarm City's First Release
 
 
-The Swarm City app is a decentralized web app running on the Ethereum blockchain and is not available in the app stores. Simply visit https:swarm.city to begin. 
+The Swarm City app is a decentralized web app running on the Ethereum blockchain and is not available in the app stores. Simply visit https://swarm.city to begin. 
 
 The Swarm City Terminal is the starting point of the user journey in Swarm City. It serves as the main entry screen into the Swarm City ecosystem and will lead you to [Boardwalk](https://github.com/swarmcity/sc-terminal/blob/master/README.md), the browser for the hashtags offering services, starting with #ridesharing. 
 
