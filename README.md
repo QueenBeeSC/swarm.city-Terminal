@@ -24,9 +24,10 @@ We are also working on integrating a fiat to crypto exchange. SWT is exchanged d
 
 
 ## Create new user
- 
+---
 
-### Yes, convert my tokens
+
+* ### Yes, convert my tokens
   * as a json file **from an AC wallet**
     * choose file
     * enter password of ARC wallet
@@ -44,12 +45,14 @@ We are also working on integrating a fiat to crypto exchange. SWT is exchanged d
     * repeat password
     * creating new wallet
   
-### Nope, don't have any
+* ### Nope, don't have any
   * create a password 
   * repeat password
 
 
 ## Restore a backup file
+---
+
   * enter IPFS-hash
   * restore
   * enter password
@@ -61,6 +64,7 @@ We are also working on integrating a fiat to crypto exchange. SWT is exchanged d
 
 
 ## Create a Profile
+---
 
 Click on the profile avatar or username to access the profile view. On the profile view, you see a profile avatar, username, and public wallet address. You also see a button to make backup, delete this user, and log out.
 
@@ -79,7 +83,7 @@ Once you have created a profile you can log in and out at will. Upon re-entry to
 
 
 ## Exchange ARC for SWT
-
+---
 
 [Original whitepaper](https://drive.google.com/file/d/0B9RSMdR2vWssV2JJX0t6dmN6SUk/view) - [SWT whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md) - [Swarm City Token (SWT) Contract](https://etherscan.io/token/0xb9e7f8568e08d5659f5d29c4997173d84cdf2607)
 
@@ -96,49 +100,58 @@ Once you have created a profile you can log in and out at will. Upon re-entry to
 
 
 ## Send SWT & Receive SWT
+---
 
 Users can send to and recieve SWT from any other user by sharing their shortcode or public address.
+**Never share your password, IPFS-hash or private key*
 
-**Never share your password, IPFS-hash or private key**
+
+### Send SWT
+  * click on SWT balance
+  * send SWT
+  * enter amount
+  * enter shortcode or public address of receiver
+  
+### Receive SWT
+  * click on SWT balance
+  * shortcode
+  * copy and paste to the sender before the code expires
 
 
 <br>
 
-
-Send SWT | Receive SWT
---------------- | ------------------
-click on SWT balance > send SWT > enter amount > enter shortcode or public address of receiver | click on SWT balance > shortcode > copy and paste to the sender before the code expires
-
-
-<br>
 
 ## Create a backup
+---
 
 The Swarm City app is fully decentralized so there is no central party storing your account information. When a user is removed from a device it can only be recovered by a backup that you have created for yourself. The backup with your password will give you permanent and complete control of your tokens.
 
+  * click on the profile avatar or nickname
+  * create a backup
+  * download and/or ipfs
+  
 Next to the avatar and username there is a warning sign (!). It will be there as long as the user hasn’t made a backup. Clicking on it or on the avatar/username takes the user to the profile view with instructions to make a backup. 
 
 The user can download the json file and can choose to store it on the device or on the [IPFS distributed web](https://ipfs.io).
-
 **Be sure to store your public address, private key, password, and IPFS-hash in a safe place.**
 
 
 ## Delete this user
+---
 
 Select delete this user to switch between wallets. At this time, the Terminal can load contents from only one wallet at a time. When deleting a user the contents of the wallet will remain intact. Any IPFS-hash or backup download created will retain it's merit and can be used to reload the account after deletion.
 
-
+  * click on the profile avatar or nickname delete this user
+  * continue
+  
+  
 ## Logout
+---
 
 Select logout to keep your profile stored locally on your device. Upon re-entry to the Terminal you will enter your only your password.
 
-
-<br>
-
-
-Create a backup | Delete this user | Logout
---------------- | ---------------- | ------
-click on the profile avatar or nickname > create a backup > download and/or ipfs | click on the profile avatar or nickname delete this user > continue | click on the profile avatar or nickname > logout
+  * click on the profile avatar or nickname
+  * logout
 
 
 <br>
