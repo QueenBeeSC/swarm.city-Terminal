@@ -11,7 +11,7 @@ The first step is to create a SWT wallet. It provides Swarm City users the abili
   * view SWT balances
   * send & receive SWT from any wallet
 
-We are also working on integrating a fiat to crypto exchange. SWT is exchanged directly between users over the Ethereum blockchain; no need for a middelman. The new wallet it is stored locally on your device; no central database. The password you choose will be used to encrypt your wallet on your device. Your wallet is as secure as you keep it, and there is no way to recover lost passwords. Welcome to the blockchain! Let's get started...
+We are also working on integrating a fiat to crypto exchange into the DApp. SWT is exchanged directly between users over the Ethereum blockchain; no need for a middelman. The new wallet it is stored locally on your device; no central database. The password you choose will be used to encrypt your wallet on your device. Your wallet is as secure as you keep it, and there is no way to recover lost passwords. Welcome to the blockchain! Let's get started...
 
 
 <br>
@@ -23,7 +23,7 @@ We are also working on integrating a fiat to crypto exchange. SWT is exchanged d
 <br>
 
 
-## Create new user
+## [Create new user](https://github.com/QueenBeeSC/swarm.city-Terminal/wiki/Account-Creation)
 ---
 
 With the first visit to the Terminal everyone must create a new user, even if you previously created an AC wallet. You will be able to load your AC wallet and create a new vault for your tokens in the Terminal. If you have ARC tokens then you will have a few options to access your tokens and you will be prompted to exchange ARC to SWT as long as there is an ARC balance in your wallet. If you have no tokens to convert then you can simply create a new wallet by creating a password to secure your wallet.
@@ -56,7 +56,7 @@ Listed below are the step by step processes required to complete each action.
 <br>
 
 
-## Restore a backup file
+## [Restore a backup file](https://github.com/QueenBeeSC/swarm.city-Terminal/wiki/Restore-a-backup-file)
 ---
 
 ** Note: Restore a backup file can only be used to retrieve a previously deleted SWT wallet that was created, backed up with IPFS, and deleted from the device through the Terminal.** 
@@ -70,7 +70,7 @@ Listed below are the step by step processes required to complete each action.
 <br>
 
 
-## Create a Profile
+## [Create a Profile](https://github.com/QueenBeeSC/swarm.city-Terminal/wiki/Create-a-profile)
 ---
 
 Click on the profile avatar or username to access the profile view. On the profile view, you see a profile avatar, username, and public wallet address. You also see a button to make backup, delete this user, and log out.
