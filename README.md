@@ -5,7 +5,7 @@ The Swarm City app is a decentralized web app running on the Ethereum blockchain
 
 The Swarm City Terminal is the starting point of the user journey in Swarm City. It serves as the main entry screen into the Swarm City ecosystem and will lead you to [Boardwalk](https://github.com/swarmcity/sc-terminal/blob/master/README.md), the browser for the hashtags offering services, starting with #ridesharing. 
 
-The first step is to create a SWT wallet. It provides Swarm City users the ability to
+The first step is to create a SWT wallet. It provides Swarm City users the ability to:
   * create and manage a basic profile
   * exchange Arcade City tokens (ARC) for Swarm City Tokens (SWT)
   * view SWT balances
