@@ -1,7 +1,17 @@
 # The Terminal - Swarm City's First Release
 
 
-The Swarm City Terminal is the starting point of the user journey in Swarm City. It serves as the main entry screen into the Swarm City ecosystem and will lead you to [Boardwalk](https://github.com/swarmcity/sc-terminal/blob/master/README.md), the browser for the hashtags, starting with #ridesharing. It provides the Swarm City users the ability to create and manage a basic profile, exchange Arcade City tokens (ARC) for Swarm City Tokens (SWT), as well as sending and receiving SWT from any other wallet.
+The Swarm City app is a decentralized web app running on the Ethereum blockchain and is not available in the app stores. Simply visit https:swarm.city to begin. 
+
+The Swarm City Terminal is the starting point of the user journey in Swarm City. It serves as the main entry screen into the Swarm City ecosystem and will lead you to [Boardwalk](https://github.com/swarmcity/sc-terminal/blob/master/README.md), the browser for the hashtags offering services, starting with #ridesharing. 
+
+The first step is to create a SWT wallet. It provides Swarm City users the ability to
+  * create and manage a basic profile
+  * exchange Arcade City tokens (ARC) for Swarm City Tokens (SWT)
+  * view SWT balances
+  * send & receive SWT from any wallet
+
+We are also working on integrating a fiat to crypto exchange. SWT is exchanged directly between users over the Ethereum blockchain, no need for a middelman. The new wallet it is stored locally on your device; no central database. The password you choose will be used to encrypt your wallet on your device. Your wallet is as secure as you keep it, and there is no way to recover lost passwords. Welcome to the blockchain! Let's get started...
 
 
 <br>
@@ -14,23 +24,37 @@ The Swarm City Terminal is the starting point of the user journey in Swarm City.
 
 
 ## Create new user
+ 
 
-There are several ways to create a new Swarm City wallet. The new wallet it is stored locally on your device, no central database. The password you choose will be used to encrypt your wallet on your device. There is no way to recover lost passwords.
+### Yes, convert my tokens
+  * as a json file **from an AC wallet**
+    * choose file
+    * enter password of ARC wallet
+    * creating new wallet
+    
+  * as a print PDF (private key) **from an AC wallet**
+    * enter private key
+    * create password
+    * repeat password
+    * creating new wallet
+    
+  * from an external wallet
+    * enter private key
+    * create password
+    * repeat password
+    * creating new wallet
+  
+### Nope, don't have any
+  * create a password 
+  * repeat password
 
 
 ## Restore a backup file
+  * enter IPFS-hash
+  * restore
+  * enter password
 
-Restore a backup file can only be used to retrieve a previously deleted SWT wallet that was created, backed up with IPFS, and deleted from the device through the Terminal. 
-
-
-<br>
-
-
-Create new user | Create new user | Restore a backup file
----------------------------------------- | -------------------------------------- | ---------------------
-Yes, convert my tokens (**from an ARC wallet:**) > as a json > choose file > enter password of ARC wallet > creating new wallet | Nope, don't have any > create a password > repeat password > create a backup > download and/or ipfs | restore a backup file > enter IPFS-hash > restore > enter password
-Yes, convert my tokens (**from an ARC wallet:**) as a print pdf > enter private key > create password > repeat password > creating new wallet |
-Yes, convert my tokens (**from ANY wallet:**) an external wallet > enter private key > create password > repeat password > creating new wallet | 
+** Note: Restore a backup file can only be used to retrieve a previously deleted SWT wallet that was created, backed up with IPFS, and deleted from the device through the Terminal.** 
 
 
 <br>
