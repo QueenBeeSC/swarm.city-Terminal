@@ -11,7 +11,7 @@ The first step is to create a SWT wallet. It provides Swarm City users the abili
   * view SWT balances
   * send & receive SWT from any wallet
 
-We are also working on integrating a fiat to crypto exchange. SWT is exchanged directly between users over the Ethereum blockchain, no need for a middelman. The new wallet it is stored locally on your device; no central database. The password you choose will be used to encrypt your wallet on your device. Your wallet is as secure as you keep it, and there is no way to recover lost passwords. Welcome to the blockchain! Let's get started...
+We are also working on integrating a fiat to crypto exchange. SWT is exchanged directly between users over the Ethereum blockchain; no need for a middelman. The new wallet it is stored locally on your device; no central database. The password you choose will be used to encrypt your wallet on your device. Your wallet is as secure as you keep it, and there is no way to recover lost passwords. Welcome to the blockchain! Let's get started...
 
 
 <br>
@@ -53,11 +53,12 @@ We are also working on integrating a fiat to crypto exchange. SWT is exchanged d
 ## Restore a backup file
 ---
 
+** Note: Restore a backup file can only be used to retrieve a previously deleted SWT wallet that was created, backed up with IPFS, and deleted from the device through the Terminal.** 
+
+* ### Restore an account
   * enter IPFS-hash
   * restore
   * enter password
-
-** Note: Restore a backup file can only be used to retrieve a previously deleted SWT wallet that was created, backed up with IPFS, and deleted from the device through the Terminal.** 
 
 
 <br>
