@@ -1,4 +1,4 @@
-# The Terminal - Swarm City's First Release
+# Terminal - Swarm City's First Release
 
 
 The Swarm City app is a decentralized web app running on the Ethereum blockchain and is not available in the app stores. Simply visit https:swarm.city to begin. 
