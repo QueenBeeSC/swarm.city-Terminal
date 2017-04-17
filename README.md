@@ -126,6 +126,7 @@ Users can send to and recieve SWT from any other user by sharing their shortcode
 
 The Swarm City app is fully decentralized so there is no central party storing your account information. When a user is removed from a device it can only be recovered by a backup that you have created for yourself. The backup with your password will give you permanent and complete control of your tokens.
 
+* ### Create a backup
   * click on the profile avatar or nickname
   * create a backup
   * download and/or ipfs
@@ -136,20 +137,28 @@ The user can download the json file and can choose to store it on the device or 
 **Be sure to store your public address, private key, password, and IPFS-hash in a safe place.**
 
 
+<br>
+
+
 ## Delete this user
 ---
 
 Select delete this user to switch between wallets. At this time, the Terminal can load contents from only one wallet at a time. When deleting a user the contents of the wallet will remain intact. Any IPFS-hash or backup download created will retain it's merit and can be used to reload the account after deletion.
 
+* ### Delete this user
   * click on the profile avatar or nickname delete this user
   * continue
   
-  
+
+<br>
+
+
 ## Logout
 ---
 
 Select logout to keep your profile stored locally on your device. Upon re-entry to the Terminal you will enter your only your password.
 
+* ### Logout
   * click on the profile avatar or nickname
   * logout
 
