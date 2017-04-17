@@ -1,19 +1,19 @@
 # The Terminal - Swarm City's First Release
 
 
-The [Swarm City Terminal](https://github.com/swarmcity/sc-terminal/blob/master/README.md) is the starting point of the user journey in Swarm City. The [Terminal](https://github.com/swarmcity/dev.swarm.city/blob/master/README.md) is the main entry screen into the Swarm City ecosystem and will lead you to [Boardwalk](https://github.com/swarmcity/sc-terminal/blob/master/README.md), the browser for the hashtags, starting with #ridesharing. It provides the Swarm City users the ability to create and manage a basic profile, exchange Arcade City tokens (ARC) for Swarm City Tokens (SWT), as well as sending and receiving SWT from any other wallet.
+The Swarm City Terminal is the starting point of the user journey in Swarm City. It serves as the main entry screen into the Swarm City ecosystem and will lead you to [Boardwalk](https://github.com/swarmcity/sc-terminal/blob/master/README.md), the browser for the hashtags, starting with #ridesharing. It provides the Swarm City users the ability to create and manage a basic profile, exchange Arcade City tokens (ARC) for Swarm City Tokens (SWT), as well as sending and receiving SWT from any other wallet.
 
 
 <br>
 
 
-> # [Enter the Terminal](https://swarm.city)  
+# [Enter the Terminal](https://swarm.city)  
 
 
 <br>
 
 
-> ## Create new user / Restore a backup file
+## Create new user / Restore a backup file
 
 
 There are several ways to create a new Swarm City wallet. When creating a new wallet it is stored locally on your device, no central database. The password you choose will be used to encrypt your wallet on your device.
@@ -26,7 +26,7 @@ Restore a backup file can only be used to retrieve a previously deleted SWT wall
 
 Create new user > Yes, convert my tokens | Create new user > Nope, don't have any | Restore a backup file
 ---------------------------------------- | -------------------------------------- | ---------------------
-**from an ARC wallet:** as a json > choose file > enter password of ARC wallet > creating new wallet | create a password > repeat password > create a backup > download and/or ipfs | restore a backup file > enter IPFS-hash > restore
+**from an ARC wallet:** as a json > choose file > enter password of ARC wallet > creating new wallet | create a password > repeat password > create a backup > download and/or ipfs | restore a backup file > enter IPFS-hash > restore > enter password
 **from an ARC wallet:** as a print pdf > enter private key > create password > repeat password > creating new wallet |
 **from ANY wallet:** an external wallet > enter private key > create password > repeat password > creating new wallet | 
 
@@ -55,7 +55,7 @@ Once you have created a profile you can log in and out at will. Upon re-entry to
 > ## Exchange ARC for SWT
 
 
-[Original whitepaper](https://drive.google.com/file/d/0B9RSMdR2vWssV2JJX0t6dmN6SUk/view) - [SWT token whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md) - [Swarm City Token Contract (SWT)](https://etherscan.io/token/0xb9e7f8568e08d5659f5d29c4997173d84cdf2607)
+[Original whitepaper](https://drive.google.com/file/d/0B9RSMdR2vWssV2JJX0t6dmN6SUk/view) - [SWT whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md) - [Swarm City Token (SWT) Contract](https://etherscan.io/token/0xb9e7f8568e08d5659f5d29c4997173d84cdf2607)
 
 **If you have ARC tokens that you want to convert to SWT you will need a small amount of ether to cover gas fees, approximately 0.1 eth in the wallet holding the ARC tokens, before you can complete the swap. This will be more than enough to cover several transactions**
 
