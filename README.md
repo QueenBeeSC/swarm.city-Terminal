@@ -31,10 +31,22 @@ Create new user > Yes, convert my tokens | Create new user > Nope, don't have an
 **from ANY wallet:** an external wallet > enter private key > create password > repeat password > creating new wallet | 
 
 
+> ## Create new user 
+* Yes, convert my tokens 
+  ***from an ARC wallet** as a json > choose file > enter password of ARC wallet > creating new wallet 
+
+* Nope, don't have any > create a password > repeat password > create a backup > download and/or ipfs
+
+
+> ## Restore a backup file
+* restore a backup file > enter IPFS-hash > restore > enter password
+
+**from an ARC wallet:** as a print pdf > enter private key > create password > repeat password > creating new wallet |
+**from ANY wallet:** an external wallet > enter private key > create password > repeat password > creating new wallet | 
 <br>
 
 
-> ## Create a Profile
+## Create a Profile
 
 Click on the profile avatar or username to access the profile view. On the profile view, you see a profile avatar, username, and public wallet address. You also see a button to make backup, delete this user, and log out.
 
@@ -52,7 +64,7 @@ Once you have created a profile you can log in and out at will. Upon re-entry to
 <br>
 
 
-> ## Exchange ARC for SWT
+## Exchange ARC for SWT
 
 
 [Original whitepaper](https://drive.google.com/file/d/0B9RSMdR2vWssV2JJX0t6dmN6SUk/view) - [SWT whitepaper](https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md) - [Swarm City Token (SWT) Contract](https://etherscan.io/token/0xb9e7f8568e08d5659f5d29c4997173d84cdf2607)
@@ -69,7 +81,7 @@ Once you have created a profile you can log in and out at will. Upon re-entry to
 <br>
 
 
-> ## Send SWT / Receive SWT
+## Send SWT / Receive SWT
 
 Users can send to and recieve SWT from any other user by sharing their shortcode or public address.
 
@@ -86,7 +98,7 @@ click on SWT balance > send SWT > enter amount > enter shortcode or public addre
 
 <br>
 
-> ## Create a backup / Delete this user / Logout
+## Create a backup / Delete this user / Logout
 
 
 The Swarm City app is fully decentralized so there is no central party storing your account information. When a user is removed from a device it can only be recovered by a backup that you have created for yourself. The backup with your password will give you permanent and complete control of your tokens.
