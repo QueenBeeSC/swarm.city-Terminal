@@ -31,18 +31,6 @@ Create new user > Yes, convert my tokens | Create new user > Nope, don't have an
 **from ANY wallet:** an external wallet > enter private key > create password > repeat password > creating new wallet | 
 
 
-> ## Create new user 
-* Yes, convert my tokens 
-  ***from an ARC wallet** as a json > choose file > enter password of ARC wallet > creating new wallet 
-
-* Nope, don't have any > create a password > repeat password > create a backup > download and/or ipfs
-
-
-> ## Restore a backup file
-* restore a backup file > enter IPFS-hash > restore > enter password
-
-**from an ARC wallet:** as a print pdf > enter private key > create password > repeat password > creating new wallet |
-**from ANY wallet:** an external wallet > enter private key > create password > repeat password > creating new wallet | 
 <br>
 
 
