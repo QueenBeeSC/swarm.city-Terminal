@@ -13,10 +13,12 @@ The Swarm City Terminal is the starting point of the user journey in Swarm City.
 <br>
 
 
-## Create new user / Restore a backup file
+## Create new user
+
+There are several ways to create a new Swarm City wallet. The new wallet it is stored locally on your device, no central database. The password you choose will be used to encrypt your wallet on your device. There is no way to recover lost passwords.
 
 
-There are several ways to create a new Swarm City wallet. When creating a new wallet it is stored locally on your device, no central database. The password you choose will be used to encrypt your wallet on your device.
+## Restore a backup file
 
 Restore a backup file can only be used to retrieve a previously deleted SWT wallet that was created, backed up with IPFS, and deleted from the device through the Terminal. 
 
@@ -69,7 +71,7 @@ Once you have created a profile you can log in and out at will. Upon re-entry to
 <br>
 
 
-## Send SWT / Receive SWT
+## Send SWT & Receive SWT
 
 Users can send to and recieve SWT from any other user by sharing their shortcode or public address.
 
@@ -86,8 +88,7 @@ click on SWT balance > send SWT > enter amount > enter shortcode or public addre
 
 <br>
 
-## Create a backup / Delete this user / Logout
-
+## Create a backup
 
 The Swarm City app is fully decentralized so there is no central party storing your account information. When a user is removed from a device it can only be recovered by a backup that you have created for yourself. The backup with your password will give you permanent and complete control of your tokens.
 
@@ -95,9 +96,17 @@ Next to the avatar and username there is a warning sign (!). It will be there as
 
 The user can download the json file and can choose to store it on the device or on the [IPFS distributed web](https://ipfs.io).
 
+**Be sure to store your public address, private key, password, and IPFS-hash in a safe place.**
+
+
+## Delete this user
+
 Select delete this user to switch between wallets. At this time, the Terminal can load contents from only one wallet at a time. When deleting a user the contents of the wallet will remain intact. Any IPFS-hash or backup download created will retain it's merit and can be used to reload the account after deletion.
 
-**Be sure to store your public address, private key, password, and IPFS-hash in a safe place.**
+
+## Logout
+
+Select logout to keep your profile stored locally on your device. Upon re-entry to the Terminal you will enter your only your password.
 
 
 <br>
