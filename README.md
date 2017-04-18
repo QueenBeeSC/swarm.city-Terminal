@@ -23,7 +23,7 @@ We are also working on integrating a fiat to crypto exchange into the DApp. SWT 
 <br>
 
 
-<details><summary><h2>Create new user</h2></summary><p>  
+<details><summary><h2>Create new user</h2></summary><p><br>
 With the first visit to the Terminal everyone must create a new user, even if you previously created an AC wallet. You will be able to load your AC wallet and create a new vault for your tokens in the Terminal. If you have ARC tokens then you will have a few options to access your tokens and you will be prompted to exchange ARC to SWT as long as there is an ARC balance in your wallet. If you have no tokens to convert then you can simply create a new wallet by creating a password to secure your wallet.
 
 Listed below are the step by step processes required to complete each action.
