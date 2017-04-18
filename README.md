@@ -23,6 +23,21 @@ We are also working on integrating a fiat to crypto exchange into the DApp. SWT 
 <br>
 
 
+<button onclick="myFunction()">Create new user</button>
+
+<div id="myDIV">
+  This is my DIV element.
+</div>
+function myFunction() {
+    var x = document.getElementById('myDIV');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+
+
 ## [Create new user](https://github.com/QueenBeeSC/swarm.city-Terminal/wiki/Account-Creation)
 ---
 
