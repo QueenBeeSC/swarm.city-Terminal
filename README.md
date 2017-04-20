@@ -1,15 +1,3 @@
-var Dropdown = require('dropdown');
-
-var dropdown = new Dropdown('.fruits-dropdown');
-
-dropdown
-.add('Banana')
-.add('Apple', function(){ console.log('Apple selected'); })
-.add('Lemon', function(){ console.log('Lemon'); })
-.add('Remove "Apple"', function(){
-  dropdown.remove('Lemon');
-})
-.focus('Apple');
 
 # Terminal - Swarm City's First Release
 
