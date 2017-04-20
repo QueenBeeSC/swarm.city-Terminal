@@ -1,3 +1,8 @@
+[![Image Alt Text](/path/to/image)](path/to/linked/page)
+
+
+
+
 # Terminal - Swarm City's First Release
 
 
