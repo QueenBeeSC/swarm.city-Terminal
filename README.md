@@ -1,6 +1,4 @@
-
 # Terminal - Swarm City's First Release
-
 
 The Swarm City app is a decentralized web app running on the Ethereum blockchain and is not available in the app stores. Simply visit https://swarm.city to begin. 
 
@@ -15,15 +13,12 @@ The first step is to create a SWT wallet. It provides Swarm City users the abili
 We are also working on integrating a fiat to crypto exchange into the DApp. SWT is exchanged directly between users over the Ethereum blockchain; no need for a middelman. The new wallet it is stored locally on your device; no central database. The password you choose will be used to encrypt your wallet on your device. Your wallet is as secure as you keep it, and there is no way to recover lost passwords. Welcome to the blockchain! Let's get started...
 
 
+
+# Go to the Terminal 
+[Click here](https://swarm.city) to open the swarm.city dapp boardwalk release  
 <br>
-
-
-# [Enter the Terminal](https://swarm.city)  
-
-
-<br>
-
-<details><summary><h2>Create new user</h2></summary><p>
+### Create a new user
+<details><summary>show Details</summary><p>
 With the first visit to the Terminal everyone must create a new user, even if you previously created an AC wallet. You will be able to load your AC wallet and create a new vault for your tokens in the Terminal. If you have ARC tokens then you will have a few options to access your tokens and you will be prompted to exchange ARC to SWT as long as there is an ARC balance in your wallet. If you have no tokens to convert then you can simply create a new wallet by creating a password to secure your wallet.
 
 Listed below are the step by step processes required to complete each action.
@@ -175,9 +170,7 @@ Next to the avatar and username there is a warning sign (!). It will be there as
 The user can download the json file and can choose to store it on the device or on the [IPFS distributed web](https://ipfs.io).
 **Be sure to store your public address, private key, password, and IPFS-hash in a safe place.**
 
-
 <br>
-
 
 ## Delete this user
 ---
@@ -206,8 +199,3 @@ Select logout to keep your profile stored locally on your device. Upon re-entry 
 
 
 ### Meet the community, visit the swarm.city [welcome page](https://queenbeesc.github.io/swarm.city/)
-
-
-
-
-
