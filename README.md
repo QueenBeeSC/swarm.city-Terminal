@@ -42,7 +42,7 @@ Listed below are the step by step processes required to complete each action.
     * repeat password
     * creating new wallet
     
-  * from an external wallet
+  * **from an external wallet**
     * enter private key
     * create password
     * repeat password
