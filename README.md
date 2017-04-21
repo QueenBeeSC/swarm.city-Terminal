@@ -64,7 +64,7 @@ Listed below are the step by step processes required to complete each action.
 <br>
 
 
-** Note: Restore a backup file can only be used to retrieve a previously deleted SWT wallet that was created, backed up with IPFS, and deleted from the device through the Terminal.** 
+Restore a backup file can only be used to retrieve a previously deleted SWT wallet that was created, backed up with IPFS, and deleted from the device through the Terminal.
 
 * ### Restore an account
   * enter IPFS-hash
