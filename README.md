@@ -15,7 +15,7 @@ We are also working on integrating a fiat to crypto exchange into the DApp. SWT 
 
 
 # Go to the Terminal 
-[Click here](https://swarm.city) to open the swarm.city dapp boardwalk release  
+[Click here](https://swarm.city) to open the latest release  
 <br>
 ## Create a new user
 <details><summary>show details</summary>
