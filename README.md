@@ -64,11 +64,7 @@ Click on the profile avatar or username to access the profile view. On the profi
 Personalize your account by changing the profile picture and username. The user can upload a profile picture or take the picture with the camera in his device. The image can be cropped before saving.  
 
 Once you have created a profile you can log in and out at will. Upon re-entry to the Swarm City Terminal, your wallet can be loaded by entering your password only, unless you delete the user. In which case, you can follow the steps to cretae a new user and load a new wallet. 
-
-
 <br>
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kFD1t3MsdCs" frameborder="0" allowfullscreen></iframe>
 </details>
 <br>
