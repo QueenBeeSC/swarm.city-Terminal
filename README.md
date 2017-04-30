@@ -141,4 +141,6 @@ Select logout to keep your profile stored locally on your device. Upon re-entry 
 </details>
 
 
-### Meet the community, visit the swarm.city [welcome page](https://queenbeesc.github.io/swarm.city/)
+## Have more questions, visit the [FAQ](https://github.com/QueenBeeSC/FAQ/blob/master/README.md) page
+
+### Learn more, visit swarm.city [basics](https://queenbeesc.github.io/swarm.city/)
