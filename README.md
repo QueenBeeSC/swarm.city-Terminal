@@ -9,7 +9,7 @@ The first step is to create a SWT wallet that gives users the ability to:
   * view SWT balances
   * send & receive SWT from any wallet
 
-SWT is exchanged directly between users over the Ethereum blockchain; no need for a middelman. The new wallet is stored locally on your device; no central database.
+SWT is exchanged directly between users over the Ethereum blockchain; no need for a middleman. The new wallet is stored locally on your device; no central database.
 
 
 # Go to the Terminal 
